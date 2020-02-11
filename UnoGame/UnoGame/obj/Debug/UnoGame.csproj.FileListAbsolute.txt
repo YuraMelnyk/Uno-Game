@@ -1,0 +1,6 @@
+D:\Programming\projects\Uno_game\UnoGame\UnoGame\bin\Debug\UnoGame.exe.config
+D:\Programming\projects\Uno_game\UnoGame\UnoGame\bin\Debug\UnoGame.exe
+D:\Programming\projects\Uno_game\UnoGame\UnoGame\bin\Debug\UnoGame.pdb
+D:\Programming\projects\Uno_game\UnoGame\UnoGame\obj\Debug\UnoGame.csprojAssemblyReference.cache
+D:\Programming\projects\Uno_game\UnoGame\UnoGame\obj\Debug\UnoGame.exe
+D:\Programming\projects\Uno_game\UnoGame\UnoGame\obj\Debug\UnoGame.pdb
