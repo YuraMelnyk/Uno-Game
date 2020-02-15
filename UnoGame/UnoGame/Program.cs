@@ -18,7 +18,8 @@ namespace UnoGame
             //deck.ShowDeck();
 
             Game game = new Game();
-            game.StartGame();      
+            game.StartGame();
+            game.Play();
             
         }
     }

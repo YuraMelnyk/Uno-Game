@@ -12,6 +12,9 @@ namespace UnoGame.Model
         public string Color { get; set; }
         public int Points { get; set; }
 
+        public Card() { }
+        
+
         public Card(string name, string color, int points)
         {
             Name = name;
